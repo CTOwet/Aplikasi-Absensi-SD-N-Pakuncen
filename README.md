@@ -8,7 +8,7 @@ Sistem absensi berbasis web yang memanfaatkan teknologi QR Code untuk memudahkan
 ## 🚀 Struktur Proyek
 
 - `backend/` - Backend API menggunakan **Node.js**, **Express**, dan **SQLite** sebagai database.
-- `fe-absensi-app/` - Frontend aplikasi web menggunakan **React**, **TypeScript**, dan **Vite** sebagai build tool.
+-  Frontend aplikasi web menggunakan **React**, **TypeScript**, dan **Vite** sebagai build tool.
 
 ---
 
