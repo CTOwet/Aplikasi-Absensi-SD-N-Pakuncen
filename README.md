@@ -1,14 +1,14 @@
-# 📚 Aplikasi Absensi Dengan QR Code
+# 📚✨ Aplikasi Absensi Dengan QR Code ✨
 
 Selamat datang di **Aplikasi Absensi Dengan QR Code**! 🎉  
-Sistem absensi berbasis web yang memanfaatkan teknologi QR Code untuk memudahkan proses absensi siswa atau pengguna secara cepat dan akurat.
+Sistem absensi berbasis web yang memanfaatkan teknologi QR Code untuk memudahkan proses absensi siswa atau pengguna secara cepat dan akurat. 🚀
 
 ---
 
 ## 🚀 Struktur Proyek
 
-- `backend/` - Backend API menggunakan **Node.js**, **Express**, dan **SQLite** sebagai database.
--  Frontend aplikasi web menggunakan **React**, **TypeScript**, dan **Vite** sebagai build tool.
+- 📁 `backend/` - Backend API menggunakan **Node.js**, **Express**, dan **SQLite** sebagai database.
+- 🌐 Frontend aplikasi web menggunakan **React**, **TypeScript**, dan **Vite** sebagai build tool.
 
 ---
 
@@ -16,12 +16,12 @@ Sistem absensi berbasis web yang memanfaatkan teknologi QR Code untuk memudahkan
 
 ### 🔧 Teknologi
 
-- Node.js (ES Modules)
-- Express
-- SQLite (database file: `backend/absensi.db`)
-- bcryptjs, jsonwebtoken untuk autentikasi dan keamanan
-- dotenv untuk konfigurasi environment
-- CORS untuk komunikasi dengan frontend
+- 🟢 Node.js (ES Modules)
+- ⚡ Express
+- 🗄️ SQLite (database file: `backend/absensi.db`)
+- 🔐 bcryptjs, jsonwebtoken untuk autentikasi dan keamanan
+- ⚙️ dotenv untuk konfigurasi environment
+- 🌐 CORS untuk komunikasi dengan frontend
 
 ### ⚙️ Instalasi dan Menjalankan Backend
 
@@ -63,18 +63,18 @@ Backend menyediakan berbagai endpoint API di bawah prefix `/api`, seperti:
 
 ### 🔧 Teknologi
 
-- React 19 dengan TypeScript
-- Vite sebagai build tool dan dev server
-- Tailwind CSS untuk styling
-- React Router untuk navigasi halaman
-- Axios untuk komunikasi HTTP ke backend
-- Library tambahan: chart.js, html5-qrcode, qrcode.react, jspdf, dll.
+- ⚛️ React 19 dengan TypeScript
+- 🚀 Vite sebagai build tool dan dev server
+- 🎨 Tailwind CSS untuk styling
+- 🔄 React Router untuk navigasi halaman
+- 📡 Axios untuk komunikasi HTTP ke backend
+- 📚 Library tambahan: chart.js, html5-qrcode, qrcode.react, jspdf, dll.
 
 ### ⚙️ Instalasi dan Menjalankan Frontend
 
-1. Masuk ke direktori frontend:
+1. Pastikan berada di direktori root proyek (tempat file `package.json` frontend berada):
    ```bash
-   cd fe-absensi-app
+   cd .
    ```
 
 2. Install dependencies:
@@ -92,36 +92,36 @@ Backend menyediakan berbagai endpoint API di bawah prefix `/api`, seperti:
 
 ## 💾 Database
 
-- Database menggunakan SQLite dengan file database berada di `backend/absensi.db`.
-- Database diinisialisasi otomatis saat backend dijalankan.
+- 🗄️ Database menggunakan SQLite dengan file database berada di `backend/absensi.db`.
+- ⚙️ Database diinisialisasi otomatis saat backend dijalankan.
 
 ---
 
 ## 📝 Cara Penggunaan
 
-1. Jalankan backend terlebih dahulu.  
-2. Jalankan frontend.  
-3. Akses aplikasi melalui browser pada alamat frontend.  
-4. Gunakan fitur absensi dengan QR Code sesuai kebutuhan.
+1. ▶️ Jalankan backend terlebih dahulu.  
+2. ▶️ Jalankan frontend.  
+3. 🌐 Akses aplikasi melalui browser pada alamat frontend.  
+4. ✅ Gunakan fitur absensi dengan QR Code sesuai kebutuhan.
 
 ---
 
 ## 📄 Lisensi
 
-Proyek ini menggunakan lisensi ISC.
+Proyek ini menggunakan lisensi ISC.  
 Silakan digunakan dan dikembangkan untuk pembelajaran, penelitian, atau produksi. 🚀
 
 ---
 
 ## 🤝 Kontribusi
-Kami terbuka untuk kolaborasi!
-Silakan buat Pull Request atau Issue jika menemukan bug, fitur baru, atau ingin ikut mengembangkan proyek ini.
+Kami terbuka untuk kolaborasi!  
+Silakan buat Pull Request atau Issue jika menemukan bug, fitur baru, atau ingin ikut mengembangkan proyek ini. 🙌
 
 ---
 
 ## 🙏 Terima Kasih
-Terima kasih telah menggunakan **Aplikasi Absensi dengan QR Code.**
-Aplikasi ini dikembangkan dengan semangat kolaborasi dan kemajuan teknologi pendidikan.
+Terima kasih telah menggunakan **Aplikasi Absensi dengan QR Code.**  
+Aplikasi ini dikembangkan dengan semangat kolaborasi dan kemajuan teknologi pendidikan.  
 Semoga dapat menjadi solusi praktis dalam menciptakan sistem absensi yang rapi, transparan, dan mudah digunakan.❤️
 
 Semoga bermanfaat dalam mendigitalisasi proses kehadiran di sekolah, kantor, atau instansi Anda! 🚀
